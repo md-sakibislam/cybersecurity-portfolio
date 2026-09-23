@@ -55,6 +55,16 @@ Linux system administration.
 
 ---
 
+## 📄 License
+
+This repository is licensed under the [MIT License](./LICENSE).
+
+Original write-ups, analysis, and documentation in this repository are my own
+work. Some reference materials and templates (e.g. course handouts, blank
+journal templates, dataset schemas) originate from the **Google Cybersecurity
+Professional Certificate** program and remain the property of their original
+authors — they are included here for portfolio/demonstration purposes only.
+
 <div align="center">
 
 *Thanks for reading — feel free to reach out via email or LinkedIn above.*
