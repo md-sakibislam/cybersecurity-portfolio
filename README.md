@@ -2,7 +2,7 @@
 
 # 🛡️ Cybersecurity Portfolio
 
-### MD. Sakib Islam (Tio)
+### MD. Sakib Islam
 
 *Cybersecurity Analyst — Self-Taught | BSc in CSE, AIUB*
 
